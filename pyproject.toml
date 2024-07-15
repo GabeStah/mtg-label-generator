@@ -1,0 +1,43 @@
+[tool.poetry]
+name = "mtglabels"
+version = "0.0.43"
+description = "Magic: the Gathering Printable Set Label Generator"
+readme = "README.md"
+license = "MIT"
+authors = ["Evgenii Vasilenko <gmrnsk@gmail.com>"]
+maintainers = ["Evgenii Vasilenko <gmrnsk@gmail.com>"]
+repository = "https://github.com/gofrolist/mtg-printable-set-label-generator"
+include = [
+    "mtglabels/templates/*.svg",
+    "mtglabels/templates/svg/*.svg"
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+cairosvg = "==2.7.1"
+jinja2 = "==3.1.4"
+markupsafe = "==2.1.5"
+pypdf2 = "==3.0.1"
+requests = "==2.32.3"
+urllib3 = "==2.2.2"
+
+[tool.poetry.group.dev.dependencies]
+black = "==24.4.2"
+
+[tool.poetry.scripts]
+mtglabels = "mtglabels.generator:main"
+
+[build-system]
+requires = ["poetry-core>=1.8.1"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.semantic_release]
+branch = "main"
+version_toml = ["pyproject.toml:tool.poetry.version"]
+commit_message = "chore(release): bump version to v{version} [skip ci]"
+
+[tool.semantic_release.changelog]
+exclude_commit_patterns = [
+    "^Merge pull request",
+    "^Merge branch",
+]

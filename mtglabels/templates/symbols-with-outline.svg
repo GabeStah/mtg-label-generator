@@ -1,0 +1,159 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="{{ WIDTH / 10 }}mm" height="{{ HEIGHT / 10 }}mm"
+     viewBox="0 0 {{ WIDTH }} {{ HEIGHT }}"
+     xmlns="http://www.w3.org/2000/svg">
+
+    {% if IS_OUTLINED %}
+<!--    <rect x="1.841" y="1.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="1.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="1.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1.841" y="280.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="280.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="280.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1.841" y="558.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="558.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="558.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1.841" y="837.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="837.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="837.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1.841" y="1115.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="1115.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="1115.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1.841" y="1394.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="1394.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="1394.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1.841" y="1672.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="1672.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="1672.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1.841" y="1951.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="1951.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="1951.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1.841" y="2229.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="2229.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="2229.934" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1.841" y="2508.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="730.93" y="2508.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="1460.02" y="2508.434" width="697.6" height="278.5" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+
+
+    {% set original_width = 612 %}
+    {% set original_height = 792 %}
+
+    {% set rect_width = 189.36 * (WIDTH / original_width) %}
+    {% set rect_height = 72 * (HEIGHT / original_height) %}
+
+    {% set original_margin_left = 13.5 %}
+    {% set original_margin_top = 36 %}
+    {% set original_horizontal_gap = 211.5 - (13.5 + 189.36) %}
+
+    {% set margin_left = original_margin_left * (WIDTH / original_width) %}
+    {% set margin_top = original_margin_top * (HEIGHT / original_height) %}
+    {% set horizontal_gap = original_horizontal_gap * (WIDTH / original_width) %}
+
+    {% set rx = 7.2 * (WIDTH / original_width) %}
+    {% set ry = 7.2 * (HEIGHT / original_height) %}
+
+    {% set num_rows = ((HEIGHT - margin_top) / rect_height)|int %}
+    {% set num_cols = 3 %}
+
+    {% for row in range(num_rows) %}
+    {% for col in range(num_cols) %}
+    {% set x = margin_left + col * (rect_width + horizontal_gap) %}
+    {% set y = margin_top + row * rect_height %}
+    <rect x="{{ x }}" y="{{ y }}" width="{{ rect_width }}" height="{{ rect_height }}"
+          rx="{{ rx }}" ry="{{ ry }}" fill="none" stroke="#404040" stroke-miterlimit="10"/>
+    {% endfor %}
+    {% endfor %}
+
+    <!-- Static SVG Content -->
+<!--    <g id="static-background">-->
+<!--        <rect x="13.5" y="36" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="36" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="36" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="13.5" y="108" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="108" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="108" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="13.5" y="180" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="180" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="180" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="13.5" y="252" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="252" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="252" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="13.5" y="324" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="324" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="324" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="13.5" y="396" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="396" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="396" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="13.5" y="468" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="468" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="468" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="13.5" y="540" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="540" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="540" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="13.5" y="612" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="612" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="612" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="13.5" y="684" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="211.5" y="684" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--        <rect x="409.5" y="684" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    </g>-->
+
+    {% endif %}
+
+    {% for label in labels %}
+    <!-- Rounded rectangle surrounding the entire SVG -->
+    <!--    <rect x=".5" y=".5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y=".5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y=".5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x=".5" y="72.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y="72.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y="72.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x=".5" y="144.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y="144.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y="144.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x=".5" y="216.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y="216.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y="216.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x=".5" y="288.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y="288.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y="288.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x=".5" y="360.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y="360.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y="360.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x=".5" y="432.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y="432.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y="432.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x=".5" y="504.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y="504.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y="504.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x=".5" y="576.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y="576.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y="576.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x=".5" y="648.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="198.5" y="648.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+<!--    <rect x="396.5" y="648.5" width="189.36" height="72" rx="7.2" ry="7.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+    {% if IS_OUTLINED %}
+<!--        <rect x="{{ label.x }}" y=" {{ label.y - 20 }}" width="672.6" height="252.5" rx="19.2" ry="19.2" fill="none" stroke="#404040" stroke-miterlimit="10"/>-->
+    {% endif %}
+    <g>
+        {% set x_offset = label.title.get('x-offset', 0) %}
+        <text x="{{ label.x + 45 + x_offset }}" y="{{ label.y }}"
+              font-size="{{ label.title['font-size'] | default('60px') }}"
+              font-weight="{{ label.title['font-weight'] | default('normal') }}"
+              fill="{{ label.title['color'] | default('#000000') }}"
+              dominant-baseline="hanging"
+              style="font-family: 'EB Garamond', 'Times New Roman', serif">
+            {{ label.title['text'] | escape }}
+        </text>
+        {% if 'icon_paths' in label %}
+            {% set icon_x_offset = 0 %}
+            {% for icon in label.icon_paths[::-1] %}
+            <image x="{{ label.x + 570 - (loop.index0 * 80) }}" y="{{ label.y }}" width="70" height="70" href="{{ icon }}" />
+            {% endfor %}
+        {% endif %}
+    </g>
+    {% endfor %}
+
+</svg>

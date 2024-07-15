@@ -1,0 +1,49 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="{{ WIDTH / 10 }}mm" height="{{ HEIGHT / 10 }}mm"
+     viewBox="0 0 {{ WIDTH }} {{ HEIGHT }}"
+     xmlns="http://www.w3.org/2000/svg">
+
+    {% set y_offset = -25 %}
+
+    {% for label in labels %}
+        {% if False %}
+        {% set original_width = 612 %}
+        {% set original_height = 792 %}
+
+        {% set rect_width = 189.36 * (WIDTH / original_width) %}
+        {% set rect_height = 72 * (HEIGHT / original_height) %}
+
+        {% set original_margin_left = 13.5 %}
+        {% set original_margin_top = 36 %}
+        {% set original_horizontal_gap = 211.5 - (13.5 + 189.36) %}
+
+        {% set margin_left = original_margin_left * (WIDTH / original_width) %}
+        {% set margin_top = original_margin_top * (HEIGHT / original_height) %}
+        {% set horizontal_gap = original_horizontal_gap * (WIDTH / original_width) %}
+
+        {% set rx = 7.2 * (WIDTH / original_width) %}
+        {% set ry = 7.2 * (HEIGHT / original_height) %}
+
+        {% set num_rows = ((HEIGHT - margin_top) / rect_height)|int %}
+        {% set num_cols = 3 %}
+
+        {% for row in range(num_rows) %}
+        {% for col in range(num_cols) %}
+        {% set x = margin_left + col * (rect_width + horizontal_gap) %}
+        {% set y = margin_top + row * rect_height %}
+        <rect x="{{ x }}" y="{{ y }}" width="{{ rect_width }}" height="{{ rect_height }}"
+              rx="{{ rx }}" ry="{{ ry }}" fill="none" stroke="#404040" stroke-miterlimit="10"/>
+        {% endfor %}
+        {% endfor %}
+        {% endif %}
+
+		<g>
+            <!-- {{ label.name }} -->
+            <text x="{{ label.x + 45 }}" y="{{ label.y + 80 + y_offset }}" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">{{ label.name | escape }}</text>
+            <text x="{{ label.x + 45 }}" y="{{ label.y + 120 + y_offset }}" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">{{ label.code | upper | escape }} - {{ label.date.strftime('%B %Y') }}</text>
+            <image x="{{ label.x + 570 }}" y="{{ label.y + 85 + y_offset }}" width="70" height="70" href="{{ label.icon_filename }}" />
+        </g>
+    {% endfor %}
+
+</svg>
