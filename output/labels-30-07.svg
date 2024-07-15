@@ -1,0 +1,281 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="216.0mm" height="279.0mm"
+     viewBox="0 0 2160 2790"
+     xmlns="http://www.w3.org/2000/svg">
+
+    
+
+    
+        
+
+		<g>
+            <!-- Commander 2019 -->
+            <text x="85" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2019</text>
+            <text x="85" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C19 - August 2019</text>
+            <image x="610" y="140" width="70" height="70" href="c19.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Throne of Eldraine -->
+            <text x="85" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Throne of Eldraine</text>
+            <text x="85" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ELD - October 2019</text>
+            <image x="610" y="393.0" width="70" height="70" href="eld.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Game Night 2019 -->
+            <text x="85" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Game Night 2019</text>
+            <text x="85" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GN2 - November 2019</text>
+            <image x="610" y="646.0" width="70" height="70" href="gn2.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Secret Lair Drop -->
+            <text x="85" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Secret Lair Drop</text>
+            <text x="85" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">SLD - December 2019</text>
+            <image x="610" y="899.0" width="70" height="70" href="star.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Theros Beyond Death -->
+            <text x="85" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Theros Beyond Death</text>
+            <text x="85" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">THB - January 2020</text>
+            <image x="610" y="1152.0" width="70" height="70" href="thb.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Unsanctioned -->
+            <text x="85" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Unsanctioned</text>
+            <text x="85" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">UND - February 2020</text>
+            <image x="610" y="1405.0" width="70" height="70" href="und.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Commander 2020 -->
+            <text x="85" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2020</text>
+            <text x="85" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C20 - April 2020</text>
+            <image x="610" y="1658.0" width="70" height="70" href="c20.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Ikoria: Lair of Behemoths -->
+            <text x="85" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ikoria: Lair of Behemoths</text>
+            <text x="85" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">IKO - April 2020</text>
+            <image x="610" y="1911.0" width="70" height="70" href="iko.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Core Set 2021 -->
+            <text x="85" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Core Set 2021</text>
+            <text x="85" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">M21 - July 2020</text>
+            <image x="610" y="2164.0" width="70" height="70" href="m21.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Jumpstart -->
+            <text x="85" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Jumpstart</text>
+            <text x="85" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">JMP - July 2020</text>
+            <image x="610" y="2417.0" width="70" height="70" href="jmp.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Double Masters -->
+            <text x="788.3333333333334" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Double Masters</text>
+            <text x="788.3333333333334" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">2XM - August 2020</text>
+            <image x="1313.3333333333335" y="140" width="70" height="70" href="2xm.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Amonkhet Remastered -->
+            <text x="788.3333333333334" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Amonkhet Remastered</text>
+            <text x="788.3333333333334" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">AKR - August 2020</text>
+            <image x="1313.3333333333335" y="393.0" width="70" height="70" href="akr.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Arena Beginner Set -->
+            <text x="788.3333333333334" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Arena Beginner Set</text>
+            <text x="788.3333333333334" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ANB - August 2020</text>
+            <image x="1313.3333333333335" y="646.0" width="70" height="70" href="mtga.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- CMDR Zendikar Rising -->
+            <text x="788.3333333333334" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">CMDR Zendikar Rising</text>
+            <text x="788.3333333333334" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ZNC - September 2020</text>
+            <image x="1313.3333333333335" y="899.0" width="70" height="70" href="znc.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Zendikar Rising -->
+            <text x="788.3333333333334" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Zendikar Rising</text>
+            <text x="788.3333333333334" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ZNR - September 2020</text>
+            <image x="1313.3333333333335" y="1152.0" width="70" height="70" href="znr.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- The List -->
+            <text x="788.3333333333334" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">The List</text>
+            <text x="788.3333333333334" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">PLST - September 2020</text>
+            <image x="1313.3333333333335" y="1405.0" width="70" height="70" href="planeswalker.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Kaladesh Remastered -->
+            <text x="788.3333333333334" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Kaladesh Remastered</text>
+            <text x="788.3333333333334" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">KLR - November 2020</text>
+            <image x="1313.3333333333335" y="1658.0" width="70" height="70" href="klr.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Commander Legends -->
+            <text x="788.3333333333334" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander Legends</text>
+            <text x="788.3333333333334" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CMR - November 2020</text>
+            <image x="1313.3333333333335" y="1911.0" width="70" height="70" href="cmr.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Kaldheim -->
+            <text x="788.3333333333334" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Kaldheim</text>
+            <text x="788.3333333333334" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">KHM - February 2021</text>
+            <image x="1313.3333333333335" y="2164.0" width="70" height="70" href="khm.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- CMDR Kaldheim -->
+            <text x="788.3333333333334" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">CMDR Kaldheim</text>
+            <text x="788.3333333333334" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">KHC - February 2021</text>
+            <image x="1313.3333333333335" y="2417.0" width="70" height="70" href="khc.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Time Spiral Remastered -->
+            <text x="1491.6666666666667" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Time Spiral Remastered</text>
+            <text x="1491.6666666666667" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">TSR - March 2021</text>
+            <image x="2016.6666666666667" y="140" width="70" height="70" href="tsr.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Strixhaven: School of Mages -->
+            <text x="1491.6666666666667" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Strixhaven: School of Mages</text>
+            <text x="1491.6666666666667" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">STX - April 2021</text>
+            <image x="2016.6666666666667" y="393.0" width="70" height="70" href="stx.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Commander 2021 -->
+            <text x="1491.6666666666667" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2021</text>
+            <text x="1491.6666666666667" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C21 - April 2021</text>
+            <image x="2016.6666666666667" y="646.0" width="70" height="70" href="c21.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Modern Horizons 2 -->
+            <text x="1491.6666666666667" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Modern Horizons 2</text>
+            <text x="1491.6666666666667" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MH2 - June 2021</text>
+            <image x="2016.6666666666667" y="899.0" width="70" height="70" href="mh2.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Forgotten Realms -->
+            <text x="1491.6666666666667" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Forgotten Realms</text>
+            <text x="1491.6666666666667" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">AFR - July 2021</text>
+            <image x="2016.6666666666667" y="1152.0" width="70" height="70" href="afr.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- CMDR Forgotten Realms -->
+            <text x="1491.6666666666667" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">CMDR Forgotten Realms</text>
+            <text x="1491.6666666666667" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">AFC - July 2021</text>
+            <image x="2016.6666666666667" y="1405.0" width="70" height="70" href="afc.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Jumpstart: Historic Horizons -->
+            <text x="1491.6666666666667" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Jumpstart: Historic Horizons</text>
+            <text x="1491.6666666666667" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">J21 - August 2021</text>
+            <image x="2016.6666666666667" y="1658.0" width="70" height="70" href="j21.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Innistrad: Midnight Hunt -->
+            <text x="1491.6666666666667" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Innistrad: Midnight Hunt</text>
+            <text x="1491.6666666666667" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MID - September 2021</text>
+            <image x="2016.6666666666667" y="1911.0" width="70" height="70" href="mid.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- CMDR Midnight Hunt -->
+            <text x="1491.6666666666667" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">CMDR Midnight Hunt</text>
+            <text x="1491.6666666666667" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MIC - September 2021</text>
+            <image x="2016.6666666666667" y="2164.0" width="70" height="70" href="mic.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- CMDR Crimson Vow -->
+            <text x="1491.6666666666667" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">CMDR Crimson Vow</text>
+            <text x="1491.6666666666667" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">VOC - November 2021</text>
+            <image x="2016.6666666666667" y="2417.0" width="70" height="70" href="voc.svg" />
+        </g>
+    
+
+</svg>

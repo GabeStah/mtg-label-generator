@@ -1,0 +1,281 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="216.0mm" height="279.0mm"
+     viewBox="0 0 2160 2790"
+     xmlns="http://www.w3.org/2000/svg">
+
+    
+
+    
+        
+
+		<g>
+            <!-- Aether Revolt -->
+            <text x="85" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Aether Revolt</text>
+            <text x="85" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">AER - January 2017</text>
+            <image x="610" y="140" width="70" height="70" href="aer.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Modern Masters 2017 -->
+            <text x="85" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Modern Masters 2017</text>
+            <text x="85" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MM3 - March 2017</text>
+            <image x="610" y="393.0" width="70" height="70" href="mm3.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Duel Decks: Mind vs. Might -->
+            <text x="85" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Duel Decks: Mind vs. Might</text>
+            <text x="85" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDS - March 2017</text>
+            <image x="610" y="646.0" width="70" height="70" href="dds.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Amonkhet -->
+            <text x="85" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Amonkhet</text>
+            <text x="85" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">AKH - April 2017</text>
+            <image x="610" y="899.0" width="70" height="70" href="akh.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Commander Anthology -->
+            <text x="85" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander Anthology</text>
+            <text x="85" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CMA - June 2017</text>
+            <image x="610" y="1152.0" width="70" height="70" href="cma.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Archenemy: Nicol Bolas -->
+            <text x="85" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Archenemy: Nicol Bolas</text>
+            <text x="85" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">E01 - June 2017</text>
+            <image x="610" y="1405.0" width="70" height="70" href="e01.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Hour of Devastation -->
+            <text x="85" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Hour of Devastation</text>
+            <text x="85" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">HOU - July 2017</text>
+            <image x="610" y="1658.0" width="70" height="70" href="hou.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Commander 2017 -->
+            <text x="85" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2017</text>
+            <text x="85" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C17 - August 2017</text>
+            <image x="610" y="1911.0" width="70" height="70" href="c17.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Ixalan -->
+            <text x="85" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ixalan</text>
+            <text x="85" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">XLN - September 2017</text>
+            <image x="610" y="2164.0" width="70" height="70" href="xln.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- DD: Merfolk vs. Goblins -->
+            <text x="85" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Merfolk vs. Goblins</text>
+            <text x="85" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDT - October 2017</text>
+            <image x="610" y="2417.0" width="70" height="70" href="ddt.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Iconic Masters -->
+            <text x="788.3333333333334" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Iconic Masters</text>
+            <text x="788.3333333333334" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">IMA - November 2017</text>
+            <image x="1313.3333333333335" y="140" width="70" height="70" href="ima.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Unstable -->
+            <text x="788.3333333333334" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Unstable</text>
+            <text x="788.3333333333334" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">UST - December 2017</text>
+            <image x="1313.3333333333335" y="393.0" width="70" height="70" href="ust.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Rivals of Ixalan -->
+            <text x="788.3333333333334" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Rivals of Ixalan</text>
+            <text x="788.3333333333334" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">RIX - January 2018</text>
+            <image x="1313.3333333333335" y="646.0" width="70" height="70" href="rix.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Masters 25 -->
+            <text x="788.3333333333334" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Masters 25</text>
+            <text x="788.3333333333334" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">A25 - March 2018</text>
+            <image x="1313.3333333333335" y="899.0" width="70" height="70" href="a25.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- DD: Elves vs. Inventors -->
+            <text x="788.3333333333334" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Elves vs. Inventors</text>
+            <text x="788.3333333333334" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDU - April 2018</text>
+            <image x="1313.3333333333335" y="1152.0" width="70" height="70" href="ddu.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Dominaria -->
+            <text x="788.3333333333334" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Dominaria</text>
+            <text x="788.3333333333334" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DOM - April 2018</text>
+            <image x="1313.3333333333335" y="1405.0" width="70" height="70" href="dom.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Commander Anthology II -->
+            <text x="788.3333333333334" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander Anthology II</text>
+            <text x="788.3333333333334" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CM2 - June 2018</text>
+            <image x="1313.3333333333335" y="1658.0" width="70" height="70" href="cm2.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Battlebond -->
+            <text x="788.3333333333334" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Battlebond</text>
+            <text x="788.3333333333334" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">BBD - June 2018</text>
+            <image x="1313.3333333333335" y="1911.0" width="70" height="70" href="bbd.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Core Set 2019 -->
+            <text x="788.3333333333334" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Core Set 2019</text>
+            <text x="788.3333333333334" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">M19 - July 2018</text>
+            <image x="1313.3333333333335" y="2164.0" width="70" height="70" href="m19.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Commander 2018 -->
+            <text x="788.3333333333334" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Commander 2018</text>
+            <text x="788.3333333333334" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">C18 - August 2018</text>
+            <image x="1313.3333333333335" y="2417.0" width="70" height="70" href="c18.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Guilds of Ravnica -->
+            <text x="1491.6666666666667" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Guilds of Ravnica</text>
+            <text x="1491.6666666666667" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GRN - October 2018</text>
+            <image x="2016.6666666666667" y="140" width="70" height="70" href="grn.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- GRN Guild Kit -->
+            <text x="1491.6666666666667" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">GRN Guild Kit</text>
+            <text x="1491.6666666666667" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GK1 - November 2018</text>
+            <image x="2016.6666666666667" y="393.0" width="70" height="70" href="grn.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Game Night -->
+            <text x="1491.6666666666667" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Game Night</text>
+            <text x="1491.6666666666667" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GNT - November 2018</text>
+            <image x="2016.6666666666667" y="646.0" width="70" height="70" href="gnt.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Ultimate Masters -->
+            <text x="1491.6666666666667" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ultimate Masters</text>
+            <text x="1491.6666666666667" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">UMA - December 2018</text>
+            <image x="2016.6666666666667" y="899.0" width="70" height="70" href="uma.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Planechase Anth. Planes -->
+            <text x="1491.6666666666667" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Planechase Anth. Planes</text>
+            <text x="1491.6666666666667" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">OPCA - December 2018</text>
+            <image x="2016.6666666666667" y="1152.0" width="70" height="70" href="pca.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Ravnica Allegiance -->
+            <text x="1491.6666666666667" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ravnica Allegiance</text>
+            <text x="1491.6666666666667" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">RNA - January 2019</text>
+            <image x="2016.6666666666667" y="1405.0" width="70" height="70" href="rna.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- RNA Guild Kit -->
+            <text x="1491.6666666666667" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">RNA Guild Kit</text>
+            <text x="1491.6666666666667" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">GK2 - February 2019</text>
+            <image x="2016.6666666666667" y="1658.0" width="70" height="70" href="rna.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- War of the Spark -->
+            <text x="1491.6666666666667" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">War of the Spark</text>
+            <text x="1491.6666666666667" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">WAR - May 2019</text>
+            <image x="2016.6666666666667" y="1911.0" width="70" height="70" href="war.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Modern Horizons -->
+            <text x="1491.6666666666667" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Modern Horizons</text>
+            <text x="1491.6666666666667" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MH1 - June 2019</text>
+            <image x="2016.6666666666667" y="2164.0" width="70" height="70" href="mh1.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Core Set 2020 -->
+            <text x="1491.6666666666667" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Core Set 2020</text>
+            <text x="1491.6666666666667" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">M20 - July 2019</text>
+            <image x="2016.6666666666667" y="2417.0" width="70" height="70" href="m20.svg" />
+        </g>
+    
+
+</svg>

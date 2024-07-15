@@ -1,6 +1,26 @@
 Magic: the Gathering Printable Set Label Generator
 ==================================================
 
+## Credits
+
+This is a fork of the original project by [davidfischer](https://github.com/davidfischer/mtg-printable-set-label-generator).  I added the new `generator-color.py` script to allow for the generation of color coded labels, but most of the original credit goes to him.
+
+## Color generator usage
+
+*To generate set-specific labels, use the original `generator.py` script by David.  See below for details.*
+
+To generate color-coded labels, use the new `generator-color.py` script.  This script will generate a set of labels for each color and color combination in the game, along with some extra labels for card types, mana costs, and lettered labels for custom organization.
+
+To run the script and view possible options use the following command:
+
+```bash
+py mtglabels/generator-color.py -h
+```
+
+-------------------------
+| ORIGINAL README BELOW |
+-------------------------
+
 This is a script for generating Magic: the Gathering (MTG) printable set labels
 in order to organize a collection of cards.
 The code is powered by the [Scryfall API](https://scryfall.com/docs/api/sets).

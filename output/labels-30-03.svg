@@ -1,0 +1,281 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="216.0mm" height="279.0mm"
+     viewBox="0 0 2160 2790"
+     xmlns="http://www.w3.org/2000/svg">
+
+    
+
+    
+        
+
+		<g>
+            <!-- Dissension -->
+            <text x="85" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Dissension</text>
+            <text x="85" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DIS - May 2006</text>
+            <image x="610" y="140" width="70" height="70" href="dis.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Coldsnap -->
+            <text x="85" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Coldsnap</text>
+            <text x="85" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CSP - July 2006</text>
+            <image x="610" y="393.0" width="70" height="70" href="csp.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Time Spiral -->
+            <text x="85" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Time Spiral</text>
+            <text x="85" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">TSP - October 2006</text>
+            <image x="610" y="646.0" width="70" height="70" href="tsp.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Time Spiral Timeshifted -->
+            <text x="85" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Time Spiral Timeshifted</text>
+            <text x="85" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">TSB - October 2006</text>
+            <image x="610" y="899.0" width="70" height="70" href="tsp.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Planar Chaos -->
+            <text x="85" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Planar Chaos</text>
+            <text x="85" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">PLC - February 2007</text>
+            <image x="610" y="1152.0" width="70" height="70" href="plc.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Future Sight -->
+            <text x="85" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Future Sight</text>
+            <text x="85" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">FUT - May 2007</text>
+            <image x="610" y="1405.0" width="70" height="70" href="fut.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Tenth Edition -->
+            <text x="85" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Tenth Edition</text>
+            <text x="85" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">10E - July 2007</text>
+            <image x="610" y="1658.0" width="70" height="70" href="10e.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Masters Edition -->
+            <text x="85" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Masters Edition</text>
+            <text x="85" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ME1 - September 2007</text>
+            <image x="610" y="1911.0" width="70" height="70" href="me1.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Lorwyn -->
+            <text x="85" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Lorwyn</text>
+            <text x="85" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">LRW - October 2007</text>
+            <image x="610" y="2164.0" width="70" height="70" href="lrw.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- DD: Elves vs. Goblins -->
+            <text x="85" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Elves vs. Goblins</text>
+            <text x="85" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DD1 - November 2007</text>
+            <image x="610" y="2417.0" width="70" height="70" href="dd1.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Morningtide -->
+            <text x="788.3333333333334" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Morningtide</text>
+            <text x="788.3333333333334" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MOR - February 2008</text>
+            <image x="1313.3333333333335" y="140" width="70" height="70" href="mor.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Shadowmoor -->
+            <text x="788.3333333333334" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Shadowmoor</text>
+            <text x="788.3333333333334" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">SHM - May 2008</text>
+            <image x="1313.3333333333335" y="393.0" width="70" height="70" href="shm.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Eventide -->
+            <text x="788.3333333333334" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Eventide</text>
+            <text x="788.3333333333334" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">EVE - July 2008</text>
+            <image x="1313.3333333333335" y="646.0" width="70" height="70" href="eve.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Masters Edition II -->
+            <text x="788.3333333333334" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Masters Edition II</text>
+            <text x="788.3333333333334" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ME2 - September 2008</text>
+            <image x="1313.3333333333335" y="899.0" width="70" height="70" href="me2.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Shards of Alara -->
+            <text x="788.3333333333334" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Shards of Alara</text>
+            <text x="788.3333333333334" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ALA - October 2008</text>
+            <image x="1313.3333333333335" y="1152.0" width="70" height="70" href="ala.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- DD: Jace vs. Chandra -->
+            <text x="788.3333333333334" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Jace vs. Chandra</text>
+            <text x="788.3333333333334" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DD2 - November 2008</text>
+            <image x="1313.3333333333335" y="1405.0" width="70" height="70" href="dd2.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Conflux -->
+            <text x="788.3333333333334" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Conflux</text>
+            <text x="788.3333333333334" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CON - February 2009</text>
+            <image x="1313.3333333333335" y="1658.0" width="70" height="70" href="con.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- DD: Divine vs. Demonic -->
+            <text x="788.3333333333334" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Divine vs. Demonic</text>
+            <text x="788.3333333333334" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDC - April 2009</text>
+            <image x="1313.3333333333335" y="1911.0" width="70" height="70" href="ddc.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Alara Reborn -->
+            <text x="788.3333333333334" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Alara Reborn</text>
+            <text x="788.3333333333334" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ARB - April 2009</text>
+            <image x="1313.3333333333335" y="2164.0" width="70" height="70" href="arb.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Magic 2010 -->
+            <text x="788.3333333333334" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Magic 2010</text>
+            <text x="788.3333333333334" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">M10 - July 2009</text>
+            <image x="1313.3333333333335" y="2417.0" width="70" height="70" href="m10.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Planechase -->
+            <text x="1491.6666666666667" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Planechase</text>
+            <text x="1491.6666666666667" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">HOP - September 2009</text>
+            <image x="2016.6666666666667" y="140" width="70" height="70" href="hop.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Masters Edition III -->
+            <text x="1491.6666666666667" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Masters Edition III</text>
+            <text x="1491.6666666666667" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ME3 - September 2009</text>
+            <image x="2016.6666666666667" y="393.0" width="70" height="70" href="me3.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Zendikar -->
+            <text x="1491.6666666666667" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Zendikar</text>
+            <text x="1491.6666666666667" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ZEN - October 2009</text>
+            <image x="2016.6666666666667" y="646.0" width="70" height="70" href="zen.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- DD: Garruk vs. Liliana -->
+            <text x="1491.6666666666667" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Garruk vs. Liliana</text>
+            <text x="1491.6666666666667" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDD - October 2009</text>
+            <image x="2016.6666666666667" y="899.0" width="70" height="70" href="ddd.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Worldwake -->
+            <text x="1491.6666666666667" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Worldwake</text>
+            <text x="1491.6666666666667" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">WWK - February 2010</text>
+            <image x="2016.6666666666667" y="1152.0" width="70" height="70" href="wwk.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- DD: Phyrexia vs. Coalition -->
+            <text x="1491.6666666666667" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">DD: Phyrexia vs. Coalition</text>
+            <text x="1491.6666666666667" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DDE - March 2010</text>
+            <image x="2016.6666666666667" y="1405.0" width="70" height="70" href="dde.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Rise of the Eldrazi -->
+            <text x="1491.6666666666667" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Rise of the Eldrazi</text>
+            <text x="1491.6666666666667" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ROE - April 2010</text>
+            <image x="2016.6666666666667" y="1658.0" width="70" height="70" href="roe.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Duels of the Planeswalkers -->
+            <text x="1491.6666666666667" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Duels of the Planeswalkers</text>
+            <text x="1491.6666666666667" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DPA - June 2010</text>
+            <image x="2016.6666666666667" y="1911.0" width="70" height="70" href="dpa.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Archenemy -->
+            <text x="1491.6666666666667" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Archenemy</text>
+            <text x="1491.6666666666667" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ARC - June 2010</text>
+            <image x="2016.6666666666667" y="2164.0" width="70" height="70" href="arc.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Magic 2011 -->
+            <text x="1491.6666666666667" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Magic 2011</text>
+            <text x="1491.6666666666667" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">M11 - July 2010</text>
+            <image x="2016.6666666666667" y="2417.0" width="70" height="70" href="m11.svg" />
+        </g>
+    
+
+</svg>

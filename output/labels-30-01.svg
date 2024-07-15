@@ -1,0 +1,281 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="216.0mm" height="279.0mm"
+     viewBox="0 0 2160 2790"
+     xmlns="http://www.w3.org/2000/svg">
+
+    
+
+    
+        
+
+		<g>
+            <!-- Limited Edition Alpha -->
+            <text x="85" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Limited Edition Alpha</text>
+            <text x="85" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">LEA - August 1993</text>
+            <image x="610" y="140" width="70" height="70" href="lea.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Limited Edition Beta -->
+            <text x="85" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Limited Edition Beta</text>
+            <text x="85" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">LEB - October 1993</text>
+            <image x="610" y="393.0" width="70" height="70" href="leb.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Unlimited Edition -->
+            <text x="85" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Unlimited Edition</text>
+            <text x="85" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">2ED - December 1993</text>
+            <image x="610" y="646.0" width="70" height="70" href="2ed.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Arabian Nights -->
+            <text x="85" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Arabian Nights</text>
+            <text x="85" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ARN - December 1993</text>
+            <image x="610" y="899.0" width="70" height="70" href="arn.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Antiquities -->
+            <text x="85" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Antiquities</text>
+            <text x="85" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ATQ - March 1994</text>
+            <image x="610" y="1152.0" width="70" height="70" href="atq.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Revised Edition -->
+            <text x="85" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Revised Edition</text>
+            <text x="85" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">3ED - April 1994</text>
+            <image x="610" y="1405.0" width="70" height="70" href="3ed.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Legends -->
+            <text x="85" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Legends</text>
+            <text x="85" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">LEG - June 1994</text>
+            <image x="610" y="1658.0" width="70" height="70" href="leg.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- The Dark -->
+            <text x="85" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">The Dark</text>
+            <text x="85" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">DRK - August 1994</text>
+            <image x="610" y="1911.0" width="70" height="70" href="drk.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Fallen Empires -->
+            <text x="85" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Fallen Empires</text>
+            <text x="85" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">FEM - November 1994</text>
+            <image x="610" y="2164.0" width="70" height="70" href="fem.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Fourth Edition -->
+            <text x="85" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Fourth Edition</text>
+            <text x="85" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">4ED - April 1995</text>
+            <image x="610" y="2417.0" width="70" height="70" href="4ed.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Ice Age -->
+            <text x="788.3333333333334" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ice Age</text>
+            <text x="788.3333333333334" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ICE - June 1995</text>
+            <image x="1313.3333333333335" y="140" width="70" height="70" href="ice.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Chronicles -->
+            <text x="788.3333333333334" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Chronicles</text>
+            <text x="788.3333333333334" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CHR - July 1995</text>
+            <image x="1313.3333333333335" y="393.0" width="70" height="70" href="chr.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Homelands -->
+            <text x="788.3333333333334" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Homelands</text>
+            <text x="788.3333333333334" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">HML - October 1995</text>
+            <image x="1313.3333333333335" y="646.0" width="70" height="70" href="hml.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Alliances -->
+            <text x="788.3333333333334" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Alliances</text>
+            <text x="788.3333333333334" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ALL - June 1996</text>
+            <image x="1313.3333333333335" y="899.0" width="70" height="70" href="all.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Mirage -->
+            <text x="788.3333333333334" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Mirage</text>
+            <text x="788.3333333333334" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MIR - October 1996</text>
+            <image x="1313.3333333333335" y="1152.0" width="70" height="70" href="mir.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Visions -->
+            <text x="788.3333333333334" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Visions</text>
+            <text x="788.3333333333334" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">VIS - February 1997</text>
+            <image x="1313.3333333333335" y="1405.0" width="70" height="70" href="vis.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Fifth Edition -->
+            <text x="788.3333333333334" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Fifth Edition</text>
+            <text x="788.3333333333334" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">5ED - March 1997</text>
+            <image x="1313.3333333333335" y="1658.0" width="70" height="70" href="5ed.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Portal -->
+            <text x="788.3333333333334" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Portal</text>
+            <text x="788.3333333333334" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">POR - May 1997</text>
+            <image x="1313.3333333333335" y="1911.0" width="70" height="70" href="por.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Weatherlight -->
+            <text x="788.3333333333334" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Weatherlight</text>
+            <text x="788.3333333333334" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">WTH - June 1997</text>
+            <image x="1313.3333333333335" y="2164.0" width="70" height="70" href="wth.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Tempest -->
+            <text x="788.3333333333334" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Tempest</text>
+            <text x="788.3333333333334" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">TMP - October 1997</text>
+            <image x="1313.3333333333335" y="2417.0" width="70" height="70" href="tmp.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Stronghold -->
+            <text x="1491.6666666666667" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Stronghold</text>
+            <text x="1491.6666666666667" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">STH - March 1998</text>
+            <image x="2016.6666666666667" y="140" width="70" height="70" href="sth.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Exodus -->
+            <text x="1491.6666666666667" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Exodus</text>
+            <text x="1491.6666666666667" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">EXO - June 1998</text>
+            <image x="2016.6666666666667" y="393.0" width="70" height="70" href="exo.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Portal Second Age -->
+            <text x="1491.6666666666667" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Portal Second Age</text>
+            <text x="1491.6666666666667" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">P02 - June 1998</text>
+            <image x="2016.6666666666667" y="646.0" width="70" height="70" href="p02.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Unglued -->
+            <text x="1491.6666666666667" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Unglued</text>
+            <text x="1491.6666666666667" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">UGL - August 1998</text>
+            <image x="2016.6666666666667" y="899.0" width="70" height="70" href="ugl.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Urza's Saga -->
+            <text x="1491.6666666666667" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Urza&#39;s Saga</text>
+            <text x="1491.6666666666667" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">USG - October 1998</text>
+            <image x="2016.6666666666667" y="1152.0" width="70" height="70" href="usg.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Anthologies -->
+            <text x="1491.6666666666667" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Anthologies</text>
+            <text x="1491.6666666666667" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ATH - November 1998</text>
+            <image x="2016.6666666666667" y="1405.0" width="70" height="70" href="ath.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Urza's Legacy -->
+            <text x="1491.6666666666667" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Urza&#39;s Legacy</text>
+            <text x="1491.6666666666667" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ULG - February 1999</text>
+            <image x="2016.6666666666667" y="1658.0" width="70" height="70" href="ulg.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Classic Sixth Edition -->
+            <text x="1491.6666666666667" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Classic Sixth Edition</text>
+            <text x="1491.6666666666667" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">6ED - April 1999</text>
+            <image x="2016.6666666666667" y="1911.0" width="70" height="70" href="6ed.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Portal Three Kingdoms -->
+            <text x="1491.6666666666667" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Portal Three Kingdoms</text>
+            <text x="1491.6666666666667" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">PTK - May 1999</text>
+            <image x="2016.6666666666667" y="2164.0" width="70" height="70" href="ptk.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Urza's Destiny -->
+            <text x="1491.6666666666667" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Urza&#39;s Destiny</text>
+            <text x="1491.6666666666667" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">UDS - June 1999</text>
+            <image x="2016.6666666666667" y="2417.0" width="70" height="70" href="uds.svg" />
+        </g>
+    
+
+</svg>

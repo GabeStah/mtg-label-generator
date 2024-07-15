@@ -1,0 +1,137 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="216.0mm" height="279.0mm"
+     viewBox="0 0 2160 2790"
+     xmlns="http://www.w3.org/2000/svg">
+
+    
+
+    
+        
+
+		<g>
+            <!-- CMDR Lost Caverns of Ixalan -->
+            <text x="85" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">CMDR Lost Caverns of Ixalan</text>
+            <text x="85" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">LCC - November 2023</text>
+            <image x="610" y="140" width="70" height="70" href="lcc.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- The Lost Caverns of Ixalan -->
+            <text x="85" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">The Lost Caverns of Ixalan</text>
+            <text x="85" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">LCI - November 2023</text>
+            <image x="610" y="393.0" width="70" height="70" href="lci.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Ravnica Remastered -->
+            <text x="85" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ravnica Remastered</text>
+            <text x="85" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">RVR - January 2024</text>
+            <image x="610" y="646.0" width="70" height="70" href="rvr.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Murders at Karlov Manor -->
+            <text x="85" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Murders at Karlov Manor</text>
+            <text x="85" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MKM - February 2024</text>
+            <image x="610" y="899.0" width="70" height="70" href="mkm.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Murders at Karlov Manor Commander -->
+            <text x="85" y="1147.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Murders at Karlov Manor Commander</text>
+            <text x="85" y="1187.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MKC - February 2024</text>
+            <image x="610" y="1152.0" width="70" height="70" href="mkc.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Ravnica: Clue Edition -->
+            <text x="85" y="1400.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Ravnica: Clue Edition</text>
+            <text x="85" y="1440.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">CLU - February 2024</text>
+            <image x="610" y="1405.0" width="70" height="70" href="clu.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Fallout -->
+            <text x="85" y="1653.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Fallout</text>
+            <text x="85" y="1693.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">PIP - March 2024</text>
+            <image x="610" y="1658.0" width="70" height="70" href="pip.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Outlaws of Thunder Junction Commander -->
+            <text x="85" y="1906.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Outlaws of Thunder Junction Commander</text>
+            <text x="85" y="1946.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">OTC - April 2024</text>
+            <image x="610" y="1911.0" width="70" height="70" href="otc.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Outlaws of Thunder Junction -->
+            <text x="85" y="2159.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Outlaws of Thunder Junction</text>
+            <text x="85" y="2199.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">OTJ - April 2024</text>
+            <image x="610" y="2164.0" width="70" height="70" href="otj.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- The Big Score -->
+            <text x="85" y="2412.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">The Big Score</text>
+            <text x="85" y="2452.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">BIG - April 2024</text>
+            <image x="610" y="2417.0" width="70" height="70" href="big.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Modern Horizons 3 Commander -->
+            <text x="788.3333333333334" y="135" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Modern Horizons 3 Commander</text>
+            <text x="788.3333333333334" y="175" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">M3C - June 2024</text>
+            <image x="1313.3333333333335" y="140" width="70" height="70" href="m3c.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Modern Horizons 3 -->
+            <text x="788.3333333333334" y="388.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Modern Horizons 3</text>
+            <text x="788.3333333333334" y="428.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">MH3 - June 2024</text>
+            <image x="1313.3333333333335" y="393.0" width="70" height="70" href="mh3.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Assassin's Creed -->
+            <text x="788.3333333333334" y="641.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Assassin&#39;s Creed</text>
+            <text x="788.3333333333334" y="681.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">ACR - July 2024</text>
+            <image x="1313.3333333333335" y="646.0" width="70" height="70" href="acr.svg" />
+        </g>
+    
+        
+
+		<g>
+            <!-- Bloomburrow -->
+            <text x="788.3333333333334" y="894.0" font-size="35" dominant-baseline="hanging" style="font-weight: bold; font-family: 'EB Garamond', 'Times New Roman', serif">Bloomburrow</text>
+            <text x="788.3333333333334" y="934.0" font-size="25" dominant-baseline="hanging" style="font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">BLB - August 2024</text>
+            <image x="1313.3333333333335" y="899.0" width="70" height="70" href="blb.svg" />
+        </g>
+    
+
+</svg>
