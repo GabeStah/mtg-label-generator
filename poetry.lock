@@ -69,14 +69,14 @@ xcb = ["xcffib (>=1.4.0)"]
 
 [[package]]
 name = "cairosvg"
-version = "2.8.0"
+version = "2.8.1"
 description = "A Simple SVG Converter based on Cairo"
 optional = false
 python-versions = ">=3.9"
 groups = ["main"]
 files = [
-    {file = "cairosvg-2.8.0-py3-none-any.whl", hash = "sha256:f15836feea67a680f79938edf2efdd162793526b0b1cc2fd9ec257ebeafe2946"},
-    {file = "cairosvg-2.8.0.tar.gz", hash = "sha256:d60fe75c238ffba3f8e21e06dad8727ecd2bcef8d3d55fc11f9286c08c5cc710"},
+    {file = "cairosvg-2.8.1-py3-none-any.whl", hash = "sha256:5ebb6095bbb3eb7edf68b94f28f1a867535f09225ced62a662bba2e928e570a4"},
+    {file = "cairosvg-2.8.1.tar.gz", hash = "sha256:4429086d4b6aa47192ccbc4a93ada8b705098e01ee3b8f6094e51137d1ffa7d1"},
 ]
 
 [package.dependencies]
@@ -697,4 +697,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "a90e7be690292fa2a8fa3ec32043fe26ddba7976bc3e0dcc31d3fde1b4c24df8"
+content-hash = "b97f780f8e7e7666e337cfee786d0aae41a8fe8ed4b957fc12f3364b8d4b5f04"
